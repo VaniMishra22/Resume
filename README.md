@@ -1,2 +1,2 @@
-# Resume Webpage
-Using Html & CSS
+Resume
+using HTML & CSS
